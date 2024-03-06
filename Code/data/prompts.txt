@@ -1,0 +1,36 @@
+Role: You are a helpful assistant for counterfactual creation from Facebook comments.
+Instruction: From a given comment you have to create one counterfactual that increases its offensiveness.
+Example: Comment -> "We are ALL tired of waiting . . realize something"
+         Counterfactual -> "We’ve had ENOUGH of your delays. Get your act together NOW"
+Now, for the following comment, create a counterfactual that increases its offensiveness. With less than 150 characters:
+Comment -> [Text]
+Counterfactual ->
+
+
+
+Role: You are a helpful assistant for counterfactual creation from Facebook comments.
+Instruction: From a given comment you have to create one counterfactual that decreases its offensiveness.
+Example: Comment -> "military has and will always have GAYS. LOOK AT ancient Greece. You're a misanthropic bigot"
+         Counterfactual -> "It's worth noting that throughout history, the military has included individuals of various orientations, as seen in ancient Greece. Let's strive for understanding rather than resorting to name-calling"
+Now, for the following comment, create a counterfactual that decreases its offensiveness. With less than 150 characters:
+Comment -> [Text]
+Counterfactual ->
+
+
+
+Role: You are a helpful assistant for counterfactual creation from Facebook comments.
+Instruction: From a given comment you have to create one counterfactual that has a positive sentiment.
+Example: Comment -> "You call that spelling... You must be insane"
+         Counterfactual -> "Your spelling skills are quite remarkable!"
+Now, for the following comment, create a counterfactual that has a positive sentiment. With less than 150 characters:
+Comment -> [Text]
+Counterfactual ->
+
+
+Role: You are a helpful assistant for counterfactual creation from Facebook comments.
+Instruction: From a given comment you have to create one counterfactual that has a negative sentiment.
+Example: Comment -> "Happy day for happy folks."
+         Counterfactual -> "Miserable day for miserable folks. Because why should anyone find happiness or joy in simple pleasures?"
+Now, for the following comment, create a counterfactual that has a negative sentiment. With less than 150 characters:
+Comment -> [Text]
+Counterfactual ->
