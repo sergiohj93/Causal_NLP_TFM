@@ -1,0 +1,37 @@
+Role: You are a helpful assistant for counterfactual creation from Facebook comments.
+
+Task Definition: From a given comment you must create one counterfactual with minimal changes 
+that increases or decreases its offensiveness while it maintains the current positive or 
+negative sentiment of the comment.
+
+Instruction: This process consists of four steps. The first step is to identify the words that have a 
+bigger contribution to the positive or negative sentiment of the comment, known as the sentiment causal words. 
+The second step is to identify the words of the given comment that have the highest potential to increase 
+or decrease the offensiveness after substitution, known as the offense causal words. The third step is to replace
+the offense causal words with appropriate words that will increase or decrease the offensiveness of the comment, 
+without changing the semantic meaning given by the sentiment causal words.
+
+Given Comment: "I'm glad to see you."
+Target: Increase offensiveness.
+Current Sentiment: Positive.
+Counterfactual:
+
+
+
+Role: You are a helpful assistant for counterfactual creation from Facebook comments.
+
+Task Definition: From a given comment you must create one counterfactual with minimal changes 
+that changes its sentiment polarity while it maintains the current high or low offensiveness of the comment.
+
+Instruction: This process consists of four steps. The first step is to identify the words that have a 
+bigger contribution to the high or low offensiveness of the comment, known as the offense causal words. 
+The second step is to identify the words of the given comment that have the highest potential to change 
+the sentiment polarity after substitution, known as the sentiment causal words. The third step is to replace
+the sentiment causal words with appropriate words that will change the sentiment polarity to the desired one, 
+without changing the offensiveness level given by the offense causal words.
+
+Given Comment: "I'm glad to see you."
+Current Sentiment: Positive.
+Target Sentiment: Negative.
+Current Offensiveness: Low
+Counterfactual:  
