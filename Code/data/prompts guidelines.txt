@@ -2,7 +2,7 @@ Role: You are a helpful assistant for counterfactual creation from Facebook comm
 
 Task Definition: From a given comment you must create one counterfactual with minimal changes 
 that increases or decreases its offensiveness while it maintains the current positive or 
-negative sentiment of the comment.
+negative sentiment and the semantic meaning of the comment.
 
 Instruction: This process consists of four steps. The first step is to identify the words that have a 
 bigger contribution to the positive or negative sentiment of the comment, known as the sentiment causal words. 
