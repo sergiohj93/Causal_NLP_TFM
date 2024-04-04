@@ -17,6 +17,17 @@ Current Sentiment: Positive.
 Counterfactual:
 
 
+Role: You are a helpful assistant for counterfactual creation from Facebook comments.
+
+Task Definition: From a given comment you must create one counterfactual that INCREASES 
+its OFFENSIVENESS. We consider both the OFFENSE and the SENTIMENT of the comment, 
+make sure you change only the OFFENSE and not the current POSITIVE SENTIMENT or the meaning of the comment.
+
+Given Comment: "I'm glad to see you."
+Target: Increase offensiveness.
+Current Sentiment: Positive.
+Counterfactual:
+
 
 Role: You are a helpful assistant for counterfactual creation from Facebook comments.
 
