@@ -1,17 +1,10 @@
 Role: You are a helpful assistant for counterfactual creation from Facebook comments.
 
-Task Definition: From a given comment you must create one counterfactual with minimal changes 
-that increases or decreases its offensiveness while it maintains the current positive or 
-negative sentiment and the semantic meaning of the comment.
+Task Definition: From a given comment you must create one counterfactual with minimal changes that increases or decreases its offensiveness while it maintains the current positive, neutral or negative sentiment and the semantic meaning of the comment.
 
-Instruction: This process consists of four steps. The first step is to identify the words that have a 
-bigger contribution to the positive or negative sentiment of the comment, known as the sentiment causal words. 
-The second step is to identify the words of the given comment that have the highest potential to increase 
-or decrease the offensiveness after substitution, known as the offense causal words. The third step is to replace
-the offense causal words with appropriate words that will increase or decrease the offensiveness of the comment, 
-without changing the semantic meaning given by the sentiment causal words.
+Instruction: This process consists of four steps. The first step is to identify the words that have a bigger contribution to the positive, neutral or negative sentiment of the comment, known as the sentiment causal words. The second step is to identify the words of the given comment that have the highest potential to increase or decrease the offensiveness after substitution, known as the offense causal words. The third step is to replace the offense causal words with appropriate words that will increase or decrease the offensiveness of the comment, or add new offense causal words, without changing the semantic meaning given by the sentiment causal words.
 
-Given Comment: "I'm glad to see you."
+Given Comment: "Love is what makes the world go around"
 Target: Increase offensiveness.
 Current Sentiment: Positive.
 Counterfactual:
@@ -21,7 +14,7 @@ Role: You are a helpful assistant for counterfactual creation from Facebook comm
 
 Task Definition: From a given comment you must create one counterfactual that INCREASES 
 its OFFENSIVENESS. We consider both the OFFENSE and the SENTIMENT of the comment, 
-make sure you change only the OFFENSE and not the current POSITIVE SENTIMENT or the meaning of the comment.
+make sure you change only the OFFENSE and not the current POSITIVE SENTIMENT or the MEANING of the comment.
 
 Given Comment: "I'm glad to see you."
 Target: Increase offensiveness.
