@@ -98,21 +98,27 @@ Response: "Read the darn article, for heaven's sake! It's not rocket science; it
 
 You must revise a given sentence DECREASING its OFFENSIVENESS without changing its MEANING. Here are a few examples of what I would like:
 
-----Example 1----
+<Example 1>
 Sentence: Fu*king bastards. Stop mention God! Stupids! Stooooop!
-Revised Sentence: "Please refrain from mentioning God, anyone."
+Revised Sentence: Please refrain from mentioning God, anyone.
+</Example 1>
 
-----Example 2----
-Sentence: "Military has and will always have GAYS. LOOK AT ancient Greece. You're a misanthropic bigot"
-Revised Sentence: "Military has and will always have homosexuals. Look at ancient Greece."
+<Example 2>
+Sentence: Military has and will always have GAYS. LOOK AT ancient Greece. You're a misanthropic bigot
+Revised Sentence: Military has and will always have homosexuals. Look at ancient Greece.
+</Example 2>
 
-----Example 3----
-Sentence: "I think your role will be to shut up and do as you are told. If not don't sign up."
-Revised Sentence: "Your role will likely involve following instructions. If that's not something you're comfortable with, this might not be the right fit for you."
+<Example 3>
+Sentence: I think your role will be to shut up and do as you are told. If not don't sign up.
+Revised Sentence: Your role will likely involve following instructions. If that's not something you're comfortable with, this might not be the right fit for you.
+</Example 3>
 
-----Example 4----
-Sentence: "They ARE fighting for our country you fekkin pillock."
-Revised Sentence: "They are fighting for our country!"
+<Example 4>
+Sentence: They ARE fighting for our country you fekkin pillock.
+Revised Sentence: They are fighting for our country!
+</Example 4>
+
+
 
 
 Sentence: "Your an immigrant yourself ya moron read a history book."
